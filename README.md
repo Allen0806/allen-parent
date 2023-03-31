@@ -1,4 +1,4 @@
-# lczq-platform-parent
+# allen-parent
 
 ## 1. 说明
 allen-parent为各工程的父工程，该工程里定义了各具体业务工程都要依赖使用的公共组件。
